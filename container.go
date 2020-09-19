@@ -3,7 +3,7 @@
 package container
 
 import (
-	internal "github.com/golobby/container/pkg/container"
+	internal "github.com/Cililing/container/pkg/container"
 )
 
 func NewContainer() internal.Container {
