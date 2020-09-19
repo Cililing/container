@@ -1,4 +1,4 @@
-module github.com/golobby/container
+module github.com/Cililing/container
 
 go 1.11
 
